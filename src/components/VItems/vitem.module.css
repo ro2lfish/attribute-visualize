@@ -1,0 +1,10 @@
+.vitem-box {
+  padding: 10px;
+  border: 1px solid #e9ebee;
+  margin-bottom: 10px;
+  font-size: 10px;
+  background: #fdfdfd;
+}
+.vitem-box label {
+  font-size: 10px;
+}

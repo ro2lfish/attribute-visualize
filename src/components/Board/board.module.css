@@ -1,0 +1,9 @@
+.board {
+  width: 300px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 720px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin: 0 auto;
+}

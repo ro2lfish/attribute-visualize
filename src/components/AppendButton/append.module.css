@@ -1,0 +1,33 @@
+.append-box {
+  margin: 10px 0;
+  border-top: 2px solid rgb(90, 190, 90);
+  text-align: center;
+  box-sizing: border-box;
+}
+.arrow {
+  border-left: 5px solid white;
+  border-right: 5px solid white;
+  border-bottom: 0px solid rgb(90, 190, 90);
+  border-top: 5px solid rgb(90, 190, 90);
+  width: 0px;
+  height: 0px;
+  display: inline-block;
+  vertical-align: top;
+}
+.append-button {
+  width: 24px;
+  height: 24px;
+  border-radius: 24px;
+  background: rgb(100, 200, 110);
+  display: block;
+  border: none;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: 0 auto;
+  color: white;
+  cursor: pointer;
+}
+.append-button:hover {
+  box-shadow: 1px 1px 10px 3px rgba(31, 85, 37, 0.1);
+}
